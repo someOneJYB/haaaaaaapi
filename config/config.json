@@ -1,0 +1,24 @@
+{
+  "development": {
+    "username": "root",
+    "password": "123456789jiao",
+    "database": "test",
+    "host": "cdb-rthom4by.bj.tencentcdb.com",
+    "dialect": "mysql",
+    "port": "10066"
+  },
+  "test": {
+    "username": "root",
+    "password": null,
+    "database": "database_test",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "root",
+    "password": null,
+    "database": "database_production",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}
